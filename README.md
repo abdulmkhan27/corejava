@@ -1,0 +1,2 @@
+# corejava
+to practice corejava
